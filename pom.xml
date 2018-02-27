@@ -292,6 +292,12 @@
           <version>1.0.8</version>
       </dependency>
 
+      <!--fastjson-->
+      <dependency>
+          <groupId>com.alibaba</groupId>
+          <artifactId>fastjson</artifactId>
+          <version>1.2.8</version>
+      </dependency>
 
 
 
